@@ -1,2 +1,2 @@
-# weather-app
+# Weather-app
 FCC front end project
